@@ -1,0 +1,48 @@
+# ALEXXIOS
+JAILBREAK                                <!DOCTYPE html>
+<html><head>
+<title>AlexxIOS</title>
+<link rel="stylesheet" href="css/main.css">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, viewport-fit=cover minimal-ui standalone">
+<link rel="manifest" href="manifest.json">
+<meta name="description" content="WEBSITE FOR IOS USER">
+<link rel="icon" href="img/Icon.png" type="image/x-icon">
+<link rel="apple-touch-icon" href="img/Icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+</head>
+<body><a href="javascript:myFunction()">
+<div class="top">
+<img src="img/Signed.png">
+</div>
+</a>
+<br>
+<br>
+<br>
+<center>
+<br>
+<br>
+<br>
+<br>
+<div class="apps">
+<a href="itms-services://?action=download-manifest&amp;url=https://www.alexxios.tk/plist/Picsart.plist">Get</a>
+<img src="img/Picsart.png">
+<h1>PicsArt++</h1>
+</div>
+
+<div class="apps">
+<a href="itms-services://?action=download-manifest&amp;url=https://www.alexxios.tk/plist/Esign.plist">Get</a>
+<img src="img/ESign.png">
+<h1>Esign</h1>
+</div>
+
+<div class="apps">
+<a href="itms-services://?action=download-manifest&amp;url=https://www.alexxios.tk/plist/Uncover.plist">Get</a>
+<img src="img/Uncover.png">
+<h1>Unc0ver6.2.0</h1>
+</div>
+
+
+
+<div class="apps">
+<a href="itms-services://?action=download-manifest&amp;url=https://www.alexxios.tk/plist/Taurine.plist">Get</a>
+<img src="img/Taurine.png">
