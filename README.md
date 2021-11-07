@@ -24,7 +24,7 @@
 </center>
 <div class="nav">	
 <a href="Sections" class="tab">rectangle_stack_fill</a>
-<a href="https://kasarkhatari.github.io/" class="tab">house_fill</a>
+<a href="https://t.me\theldofnop" class="tab">house_fill</a>
 <a href="Search" class="tab">search_fill</a>
 </div>
 </html>
