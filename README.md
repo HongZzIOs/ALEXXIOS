@@ -30,25 +30,25 @@
 </html>
 <div class="apps">
 <a href="itms-services://?action=download-manifest&amp;url=https://www.lolzios.tk/plist/Uncover.plist">Get</a>
-<img src="img/Uncover.png">
+<img src="img/Jailbreak.PNG">
 <h1>Unc0ver6.2.0</h1>
 </div>
 
 
 <div class="apps">
 <a href="itms-services://?action=download-manifest&amp;url=https://www.lolzios.tk/plist/Taurine.plist">Get</a>
-<img src="img/Taurine.png">
+<img src="img/Jailbreak.PNG">
 <h1>Taurine</h1>
 </div>
 
 <div class="apps">
 <a href="itms-services://?action=download-manifest&amp;url=https://www.lolzios.tk/plist/Odyssey.plist">Get</a>
-<img src="img/odyssey.png">
+<img src="img/Jailbreak.PNG">
 <h1>Odyssey</h1>
 </div>
 
 <div class="apps">
 <a href="itms-services://?action=download-manifest&amp;url=https://www.lolzios.tk/plist/8Ball.plist">Get</a>
-<img src="img/8Ball.png">
+<img src="img/Jailbreak.PNG">
 <h1>8BallPoolHacksCfire</h1>
 </div>
